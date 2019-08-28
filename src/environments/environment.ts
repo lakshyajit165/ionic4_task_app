@@ -5,12 +5,13 @@
 export const environment = {
   production: false,
   firebase : {
-    apiKey: "YOUR_CREDENTIALS_HERE",
-    authDomain: "YOUR_CREDENTIALS_HERE",
-    databaseURL: "YOUR_CREDENTIALS_HERE",
-    projectId: "YOUR_CREDENTIALS_HERE",
-    storageBucket: "YOUR_CREDENTIALS_HERE",
-    messagingSenderId: "YOUR_CREDENTIALS_HERE"
+    apiKey: "AIzaSyBbrD6AXduL4B_SPE-khqpuncmN70Yr7wk",
+    authDomain: "taskapp-80166.firebaseapp.com",
+    databaseURL: "https://taskapp-80166.firebaseio.com",
+    projectId: "taskapp-80166",
+    storageBucket: "",
+    messagingSenderId: "526716482235",
+    appId: "1:526716482235:web:6d6a9bfb65efff25"
   }
 };
 
